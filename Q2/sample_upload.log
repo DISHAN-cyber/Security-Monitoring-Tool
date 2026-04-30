@@ -1,0 +1,47 @@
+=== SYNAPSE UPLOAD MONITOR - ACTIVITY LOG ===
+Session Start: 2025-12-09 16:40:00 | Host: EMPLOYEE-WKS-01
+============================================
+
+[2025-12-09 16:43:10]
+Remote IP: 165.22.221.132:443
+Application: chrome.exe
+Detected File: D:\Test\Test.pdf
+Data Transferred: 24.50 KB
+----------------------------------------
+
+[2025-12-09 16:45:22]
+Remote IP: 52.84.12.45:5222
+Application: WhatsApp.exe
+Detected File: C:\Users\user\Desktop\Meeting_Photos.zip
+Data Transferred: 15.30 MB
+----------------------------------------
+
+[2025-12-09 16:47:05]
+Remote IP: 13.107.4.50:443
+Application: onedrive.exe
+Detected File: D:\Work\Q3_Financial_Report.xlsx
+Data Transferred: 1.85 MB
+----------------------------------------
+
+[2025-12-09 16:48:33]
+Remote IP: 104.18.32.15:80
+Application: firefox.exe
+Detected File: C:\Users\user\Downloads\System_Backup.iso
+Data Transferred: 4.20 GB
+----------------------------------------
+
+[2025-12-09 16:50:11]
+Remote IP: 91.108.4.2:443
+Application: Telegram.exe
+Detected File: D:\Personal\Archive_Documents.tar.gz
+Data Transferred: 128.00 MB
+----------------------------------------
+
+[2025-12-09 16:52:40]
+Remote IP: 142.250.80.46:443
+Application: msedge.exe
+Detected File: C:\Users\user\Documents\Client_Invoice_1004.pdf
+Data Transferred: 850.00 KB
+----------------------------------------
+
+=== LOG SESSION END ===

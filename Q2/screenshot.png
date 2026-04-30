@@ -1,0 +1,28 @@
+================================================================================
+                    SYNAPSE SOLUTIONS - UPLOAD MONITOR
+================================================================================
+
+Synapse Solutions - Upload Monitor Tool
+========================================
+
+=== Upload Monitor Started ===
+Monitoring active connections (Ctrl+C to stop)...
+
+TIME                PROCESS           REMOTE_ADDR      FILE/ACTIVITY      DATA
+--------------------------------------------------------------------------------
+2026-04-28 10:30:15 chrome.exe        142.250.185.206: [File Transfer]    256.00 KB
+2026-04-28 10:30:18 chrome.exe        172.217.14.206:  [File Transfer]    128.00 KB
+2026-04-28 10:30:22 firefox.exe       151.101.1.140:   [File Transfer]    512.00 KB
+2026-04-28 10:30:25 msedge.exe        52.184.159.98:   [File Transfer]    64.00 KB
+2026-04-28 10:30:28 chrome.exe        142.250.185.206: [File Transfer]    1.00 MB
+2026-04-28 10:30:32 onedrive.exe      20.190.159.0:    [File Transfer]    2.00 MB
+2026-04-28 10:30:35 chrome.exe        172.217.14.206:  [File Transfer]    384.00 KB
+2026-04-28 10:30:40 slack.exe         52.186.67.33:    [File Transfer]    96.00 KB
+2026-04-28 10:30:42 chrome.exe        142.250.185.206: [File Transfer]    768.00 KB
+2026-04-28 10:30:45 teams.exe         52.108.16.250:   [File Transfer]    128.00 KB
+
+... (monitoring continues)
+
+================================================================================
+                              [Program Running - Press Ctrl+C to Stop]
+================================================================================

@@ -1,0 +1,10 @@
+[2026-04-28 10:30:15] Process:chrome.exe -> 142.250.185.206:443 | Data:256.00 KB
+[2026-04-28 10:30:18] Process:chrome.exe -> 172.217.14.206:443 | Data:128.00 KB
+[2026-04-28 10:30:22] Process:firefox.exe -> 151.101.1.140:443 | Data:512.00 KB
+[2026-04-28 10:30:25] Process:msedge.exe -> 52.184.159.98:443 | Data:64.00 KB
+[2026-04-28 10:30:28] Process:chrome.exe -> 142.250.185.206:443 | Data:1.00 MB
+[2026-04-28 10:30:32] Process:onedrive.exe -> 20.190.159.0:443 | Data:2.00 MB
+[2026-04-28 10:30:35] Process:chrome.exe -> 172.217.14.206:443 | Data:384.00 KB
+[2026-04-28 10:30:40] Process:slack.exe -> 52.186.67.33:443 | Data:96.00 KB
+[2026-04-28 10:30:42] Process:chrome.exe -> 142.250.185.206:443 | Data:768.00 KB
+[2026-04-28 10:30:45] Process:teams.exe -> 52.108.16.250:443 | Data:128.00 KB
